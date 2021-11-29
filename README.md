@@ -38,3 +38,19 @@ sno|Name
 
 ## Using Emojis
 # 😘
+
+
+
+## Git tools
+
+#### For Configuring Our Name in Git Bash
+          git config --global user.name "Krishna"
+#### For Checking Configuration
+           git config user.name
+#### To Configure The Mail Id
+           git config --global user.email "nallasaivenkatakrishna@gmail.com"
+#### For Checking
+           git config --global user.email
+#### For Initializing
+            git init
+
