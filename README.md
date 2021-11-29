@@ -35,3 +35,6 @@ sno|Name
 ---|-----
 1|krish
 2|Loki
+
+## Using Emojis
+# 😘
